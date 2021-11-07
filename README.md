@@ -5,7 +5,10 @@ Machine learning and data analysis project to understand and predict home prices
 https://drive.google.com/drive/folders/1x5wrdXJBfA96NYKTB9-dDbFthP5TIUFs?usp=sharing
 
 ### team planning notes: 
-https://docs.google.com/document/d/1TBczRbWl_xGDn8upDUt7iGUIfsASeyL04oLBihaGGmw/edit?usp=sharing
+https://docs.google.com/document/d/1q-vgo14iHeCkvv9fbptFmktsuX5_uPRI_EHDgcsDIYI/edit?usp=sharing
+
+### combined data sheets: 
+https://docs.google.com/spreadsheets/d/1TOMQq4eu1itYrNtu0Si4aHDYCBbaSk7_zCrNQSi-Kdc/edit?usp=sharing
 
 ### google slides: 
 https://docs.google.com/presentation/d/1DqVoR8brMF1lBP3QEMCXNsEUw2R2LZQwbRK-DkiKasE/edit?usp=sharing
