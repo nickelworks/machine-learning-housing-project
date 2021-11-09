@@ -3,8 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#tony's token key file
+config.py
+
 # C extensions
 *.so
+
+#config files
+.txt
+
+#DS Store file
+.DS_Store
 
 # Distribution / packaging
 .Python
