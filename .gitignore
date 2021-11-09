@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-.py
+#tony's token key file
+config.py
 
 # C extensions
 *.so
