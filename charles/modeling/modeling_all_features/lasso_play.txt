@@ -1,0 +1,32 @@
+ReadMe : 
+Lasso Regression
+
+
+
+Model : Lasso(alpha=0.00022231111111111114, max_iter=200000)
+TRAIN SCORE : 0.9365494233705214 
+TEST SCORE : 0.9035347229482785 
+
+
+Train Size : 1962
+Test Size : 654
+
+GRID SEARCH PARAMATER DICTIONARY
+{'cv': 5, 'error_score': nan, 'estimator__alpha': 1.0, 'estimator__copy_X': True, 'estimator__fit_intercept': True, 'estimator__max_iter': 200000, 'estimator__normalize': False, 'estimator__positive': False, 'estimator__precompute': False, 'estimator__random_state': None, 'estimator__selection': 'cyclic', 'estimator__tol': 0.0001, 'estimator__warm_start': False, 'estimator': Lasso(max_iter=200000), 'n_jobs': None, 'param_grid': {'alpha': array([1.00000000e-07, 2.22311111e-04, 4.44522222e-04, 6.66733333e-04,
+       8.88944444e-04, 1.11115556e-03, 1.33336667e-03, 1.55557778e-03,
+       1.77778889e-03, 2.00000000e-03])}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 0}
+
+BEST ESTIMATOR PARAMATER DICTIONARY
+                      0
+alpha          0.000222
+copy_X             True
+fit_intercept      True
+max_iter         200000
+normalize         False
+positive          False
+precompute        False
+random_state       None
+selection        cyclic
+tol              0.0001
+warm_start        False
+
