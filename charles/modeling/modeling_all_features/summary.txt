@@ -1,0 +1,11 @@
+Creating model to predict log_price based off of all features in cleaned data v2
+
+Scaling using MinMaxScaler
+
+Used lasso regression to try and find the most prevelant features in each neighborhood (play2.txt)
+
+Also used lasso on whole dataset to find most important features for whole dataset
+
+
+
+
