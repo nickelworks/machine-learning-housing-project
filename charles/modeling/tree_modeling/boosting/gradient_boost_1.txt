@@ -1,0 +1,41 @@
+ReadMe : 
+First Gradient boost
+
+
+
+Model : GradientBoostingRegressor(max_depth=5, min_samples_leaf=5, n_estimators=700)
+TRAIN SCORE : 0.9996900300933271 
+TEST SCORE : 0.9250950450231246 
+
+
+Train Size : 1962
+Test Size : 654
+
+GRID SEARCH PARAMATER DICTIONARY
+{'cv': 4, 'error_score': nan, 'estimator__alpha': 0.9, 'estimator__ccp_alpha': 0.0, 'estimator__criterion': 'friedman_mse', 'estimator__init': None, 'estimator__learning_rate': 0.1, 'estimator__loss': 'ls', 'estimator__max_depth': 3, 'estimator__max_features': None, 'estimator__max_leaf_nodes': None, 'estimator__min_impurity_decrease': 0.0, 'estimator__min_impurity_split': None, 'estimator__min_samples_leaf': 1, 'estimator__min_samples_split': 2, 'estimator__min_weight_fraction_leaf': 0.0, 'estimator__n_estimators': 100, 'estimator__n_iter_no_change': None, 'estimator__random_state': None, 'estimator__subsample': 1.0, 'estimator__tol': 0.0001, 'estimator__validation_fraction': 0.1, 'estimator__verbose': 0, 'estimator__warm_start': False, 'estimator': GradientBoostingRegressor(), 'n_jobs': -1, 'param_grid': {'max_depth': range(5, 10), 'n_estimators': range(100, 1000, 100), 'min_samples_leaf': range(5, 10)}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 3}
+
+BEST ESTIMATOR PARAMATER DICTIONARY
+                                     0
+alpha                              0.9
+ccp_alpha                          0.0
+criterion                 friedman_mse
+init                              None
+learning_rate                      0.1
+loss                                ls
+max_depth                            5
+max_features                      None
+max_leaf_nodes                    None
+min_impurity_decrease              0.0
+min_impurity_split                None
+min_samples_leaf                     5
+min_samples_split                    2
+min_weight_fraction_leaf           0.0
+n_estimators                       700
+n_iter_no_change                  None
+random_state                      None
+subsample                          1.0
+tol                             0.0001
+validation_fraction                0.1
+verbose                              0
+warm_start                       False
+
