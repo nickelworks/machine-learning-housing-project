@@ -1,0 +1,567 @@
+********** SWISU  42 observations **********
+PavedDrive_Y          0.203426
+YearRemodAdd          0.173679
+TotRmsAbvGrd          0.142055
+LotArea               0.141450
+Foundation_CBlock    -0.126206
+Electrical_SBrkr      0.105205
+LotConfig_Inside     -0.101382
+GarageYrBlt_1939.0    0.098494
+EnclosedPorch         0.095211
+FullBath              0.078357
+CentralAir_Y          0.077845
+BedroomAbvGr          0.074687
+OverallQual           0.073542
+GarageType_Attchd     0.073186
+MSZoning_RH           0.050924
+
+
+
+********** Edwards  169 observations **********
+OverallCond           0.450355
+GrLivArea             0.353280
+Fireplaces            0.262107
+FullBath              0.227507
+YearBuilt             0.173510
+Condition1_PosN      -0.159643
+Alley_None            0.130218
+BsmtCond_Gd           0.123056
+GarageCars            0.112672
+GarageCond_TA         0.106469
+WoodDeckSF            0.102679
+BsmtFinSF1            0.098228
+BsmtExposure_Gd       0.092102
+GarageYrBlt_1922.0   -0.088923
+MSZoning_RL           0.088491
+
+
+
+********** IDOTRR  80 observations **********
+OpenPorchSF            -0.321936
+1stFlrSF                0.283442
+OverallCond             0.256465
+GrLivArea               0.245267
+Exterior1st_WdShing     0.223014
+OverallQual             0.200743
+Alley_Pave             -0.193772
+SaleCondition_Normal    0.189581
+BsmtFinSF1              0.148440
+2ndFlrSF                0.125129
+PavedDrive_Y            0.117366
+BsmtQual_Gd             0.088624
+MSZoning_RM             0.085823
+GarageYrBlt_1958.0     -0.075178
+Exterior2nd_VinylSd     0.072217
+
+
+
+********** OldTown  217 observations **********
+GrLivArea               0.629875
+OverallQual             0.489359
+OverallCond             0.445709
+GarageYrBlt_1928.0     -0.442569
+1stFlrSF                0.187578
+GarageCars              0.120309
+CentralAir_Y            0.101284
+TotalBsmtSF             0.084976
+LandContour_Lvl         0.067608
+SaleCondition_Normal    0.063074
+LotArea                 0.060302
+Fireplaces              0.058271
+YearBuilt               0.056481
+Foundation_CBlock       0.056178
+GarageCond_Fa          -0.050261
+
+
+
+********** NWAmes  124 observations **********
+GrLivArea               0.469320
+SaleCondition_Family   -0.130028
+MSSubClass             -0.096571
+SaleCondition_Normal    0.094412
+YearRemodAdd            0.076691
+Condition1_Feedr       -0.060277
+OverallCond             0.057451
+BsmtFinType1_GLQ        0.049549
+ExterQual_TA           -0.048591
+1stFlrSF                0.032045
+Foundation_CBlock      -0.031307
+FireplaceQu_None       -0.031278
+GarageFinish_RFn        0.031058
+BsmtHalfBath            0.030746
+BsmtFullBath            0.027161
+
+
+
+********** Blmngtn  23 observations **********
+GrLivArea             0.109964
+SaleType_New          0.081269
+BsmtFullBath          0.081118
+YrSold               -0.080753
+GarageYrBlt_2007.0   -0.077100
+1stFlrSF              0.054533
+GarageYrBlt_2002.0    0.046787
+OverallQual           0.041123
+GarageCars           -0.027521
+BsmtExposure_No      -0.020800
+BsmtExposure_Gd       0.015724
+FireplaceQu_TA        0.007461
+BsmtUnfSF            -0.002827
+GarageYrBlt_1929.0    0.000000
+GarageYrBlt_1932.0    0.000000
+
+
+
+********** Mitchel  105 observations **********
+TotalBsmtSF             0.368858
+GrLivArea               0.210592
+OverallQual             0.179404
+KitchenQual_TA         -0.083853
+ExterQual_Gd            0.080042
+GarageCars              0.074339
+FireplaceQu_None       -0.069795
+YrSold                  0.050916
+YearBuilt               0.046675
+SaleCondition_Normal    0.045948
+BsmtFinSF1              0.045810
+BldgType_Duplex        -0.045452
+Electrical_SBrkr        0.044206
+BsmtFullBath            0.041441
+Fence_MnPrv            -0.040417
+
+
+
+********** NridgHt  123 observations **********
+GrLivArea              0.457574
+OverallQual            0.227338
+BsmtFinSF1             0.225354
+MSSubClass            -0.139747
+MasVnrArea             0.112991
+Exterior2nd_Wd Shng   -0.072289
+TotalBsmtSF            0.059597
+BsmtExposure_Gd        0.055227
+SaleType_New           0.047020
+GarageYrBlt_2008.0     0.044489
+Exterior1st_MetalSd    0.038659
+FireplaceQu_None      -0.038515
+ExterQual_Gd          -0.035293
+BsmtQual_Gd           -0.026792
+HeatingQC_Gd           0.021800
+
+
+
+********** NAmes  417 observations **********
+GrLivArea               0.434120
+OverallQual             0.218817
+TotalBsmtSF             0.147025
+OverallCond             0.132286
+GarageCars              0.112725
+SaleCondition_Normal    0.069089
+BsmtFinSF1              0.057546
+BsmtExposure_Gd         0.046099
+BsmtFinType1_Unf       -0.043070
+YearRemodAdd            0.038084
+BldgType_Duplex        -0.037091
+ScreenPorch             0.036792
+Fireplaces              0.033325
+BsmtCond_TA             0.031638
+BsmtQual_None          -0.027448
+
+
+
+********** CollgCr  240 observations **********
+GrLivArea             0.398721
+OverallQual           0.286314
+1stFlrSF              0.131560
+BsmtFinSF1            0.131486
+GarageArea            0.104234
+MSZoning_RL           0.058431
+FullBath              0.042819
+Foundation_CBlock    -0.032587
+FireplaceQu_None     -0.031224
+GarageYrBlt_2008.0    0.031153
+GarageCars            0.028236
+MasVnrType_Stone      0.025900
+BsmtFinType1_GLQ      0.022921
+BsmtExposure_Gd       0.022492
+MasVnrType_None      -0.017038
+
+
+
+********** SawyerW  114 observations **********
+GrLivArea             0.596565
+CentralAir_Y          0.175155
+LandSlope_Mod         0.172972
+TotalBsmtSF           0.167720
+OverallQual           0.164923
+MSZoning_RH          -0.159775
+GarageCars            0.153083
+YearBuilt             0.094927
+KitchenQual_Gd        0.092045
+BldgType_TwnhsE      -0.051770
+BsmtFinSF1            0.045993
+FireplaceQu_None     -0.045849
+GarageYrBlt_1979.0   -0.036345
+BsmtFullBath          0.035205
+Fence_None           -0.031673
+
+
+
+********** MeadowV  38 observations **********
+1stFlrSF              0.123381
+Fireplaces            0.121639
+BsmtFinSF1            0.118681
+HouseStyle_SFoyer    -0.099835
+Fence_GdWo           -0.086246
+HeatingQC_Gd          0.072099
+FullBath              0.070307
+MoSold                0.058648
+GarageType_BuiltIn    0.056882
+OverallQual           0.050719
+Foundation_CBlock    -0.046490
+OpenPorchSF           0.040406
+YearRemodAdd          0.037978
+GarageCond_TA         0.033185
+HeatingQC_TA         -0.014120
+
+
+
+********** BrDale  30 observations **********
+GrLivArea               1.813854e-01
+BsmtCond_Fa            -1.316204e-01
+OverallCond             1.030303e-01
+HeatingQC_TA           -5.170504e-02
+SaleCondition_Normal    4.772760e-02
+GarageYrBlt_1971.0     -4.632908e-02
+GarageYrBlt_1973.0      3.649836e-02
+YrSold                  3.061076e-02
+YearRemodAdd            2.763253e-02
+BsmtFinType1_Unf       -1.842454e-02
+Functional_Min1         4.700709e-03
+OverallQual            -4.007448e-03
+Functional_Typ         -7.709882e-18
+GarageYrBlt_1926.0      0.000000e+00
+GarageYrBlt_1927.0      0.000000e+00
+
+
+
+********** Gilbert  145 observations **********
+GrLivArea              0.309649
+Foundation_PConc       0.147053
+GarageYrBlt_2006.0     0.099659
+GarageCars             0.087814
+BsmtFinSF1             0.069548
+LotConfig_FR2         -0.058982
+LandContour_HLS        0.049979
+ExterQual_TA          -0.048122
+Condition1_Norm        0.040065
+BsmtFinType1_GLQ       0.036167
+LotConfig_Inside      -0.032904
+MasVnrType_None       -0.026564
+HouseStyle_SLvl       -0.024523
+HeatingQC_Gd          -0.023026
+Exterior1st_VinylSd    0.018783
+
+
+
+********** Timber  54 observations **********
+GrLivArea             0.314458
+OverallQual           0.210638
+1stFlrSF              0.170372
+BsmtFinSF1            0.129071
+BsmtQual_TA          -0.115854
+LandContour_Lvl      -0.100330
+FireplaceQu_Gd        0.098324
+HeatingQC_Gd          0.065153
+BsmtExposure_Gd       0.058344
+BldgType_TwnhsE       0.054386
+BsmtFullBath          0.054314
+BsmtExposure_Mn      -0.050674
+GarageYrBlt_2008.0    0.050117
+Foundation_CBlock    -0.048689
+Functional_Typ        0.047465
+
+
+
+********** Somerst  145 observations **********
+GrLivArea              0.477898
+1stFlrSF               0.191668
+BsmtFinSF1             0.185783
+OverallQual            0.150695
+MSSubClass            -0.078496
+LotConfig_FR2         -0.072715
+BsmtQual_Gd           -0.051953
+Alley_None             0.050864
+GarageArea             0.044568
+KitchenQual_Gd        -0.039918
+BsmtExposure_No       -0.039008
+BldgType_Twnhs        -0.026389
+FireplaceQu_None      -0.024891
+SaleType_WD           -0.020913
+Exterior1st_MetalSd   -0.020149
+
+
+
+********** BrkSide  104 observations **********
+GrLivArea              0.480453
+TotalBsmtSF            0.352103
+OverallCond            0.257108
+OverallQual            0.256605
+LotArea                0.174330
+GarageArea             0.115637
+GarageYrBlt_1965.0    -0.107497
+MiscFeature_None       0.066590
+Exterior1st_VinylSd   -0.063314
+Functional_Maj2       -0.062680
+HouseStyle_1Story     -0.054501
+MSZoning_RL            0.054007
+Alley_None            -0.053000
+LotConfig_Inside       0.052890
+YearRemodAdd           0.047027
+
+
+
+********** NoRidge  67 observations **********
+GrLivArea             0.477106
+OverallQual           0.184597
+FullBath              0.141941
+BsmtFinSF1            0.106168
+TotalBsmtSF           0.098767
+MasVnrArea            0.094669
+GarageArea            0.072473
+LotArea               0.056879
+GarageYrBlt_1992.0   -0.045229
+MoSold               -0.044876
+BsmtQual_Gd          -0.042831
+GarageCars            0.040459
+RoofStyle_Gable      -0.038617
+KitchenQual_Gd       -0.038101
+LotConfig_FR2        -0.029820
+
+
+
+********** Sawyer  141 observations **********
+1stFlrSF              0.153117
+GrLivArea             0.137570
+WoodDeckSF            0.125215
+BsmtQual_None        -0.116934
+HouseStyle_1Story    -0.094596
+GarageYrBlt_1965.0   -0.087900
+GarageQual_TA         0.084899
+OverallCond           0.073182
+BsmtFullBath          0.069317
+Fence_GdWo           -0.057783
+BsmtQual_TA           0.057663
+PavedDrive_Y          0.045339
+FireplaceQu_None     -0.044888
+GarageType_Attchd     0.044296
+LotFrontage           0.042659
+
+
+
+********** Crawfor  94 observations **********
+GrLivArea              0.553874
+OverallQual            0.219713
+BsmtFinSF1             0.188940
+CentralAir_Y           0.164047
+LotArea                0.162791
+OverallCond            0.125468
+Exterior2nd_CmentBd    0.100387
+SaleType_WD           -0.085921
+HalfBath               0.077864
+Exterior1st_BrkFace    0.066000
+ExterQual_TA          -0.059398
+GarageYrBlt_2008.0     0.058764
+FullBath               0.048498
+TotalBsmtSF            0.047073
+GarageCars             0.044933
+
+
+
+********** Greens  8 observations **********
+BsmtFinSF1            1.803796e-01
+TotRmsAbvGrd          1.371620e-01
+YearRemodAdd          4.907149e-02
+Fireplaces            4.428900e-02
+BldgType_Twnhs       -2.004608e-02
+GarageType_Attchd     1.256981e-02
+BsmtFinType2_LwQ      4.530246e-03
+BldgType_TwnhsE       1.960238e-16
+GarageType_Detchd    -6.938894e-18
+GarageYrBlt_1937.0    0.000000e+00
+GarageYrBlt_1936.0    0.000000e+00
+GarageYrBlt_1935.0    0.000000e+00
+GarageYrBlt_1934.0    0.000000e+00
+GarageYrBlt_1933.0    0.000000e+00
+GarageYrBlt_1932.0    0.000000e+00
+
+
+
+********** ClearCr  40 observations **********
+GrLivArea             0.305539
+OverallQual           0.291567
+OverallCond           0.151678
+BsmtExposure_Gd       0.126795
+TotalBsmtSF           0.117151
+LandSlope_Mod         0.109059
+LandContour_HLS      -0.088037
+FireplaceQu_None     -0.083921
+GarageYrBlt_1966.0   -0.083747
+KitchenQual_Gd        0.075527
+GarageType_Attchd     0.064977
+1stFlrSF              0.053753
+LotShape_IR2          0.046430
+GarageFinish_RFn      0.046427
+MSSubClass           -0.043976
+
+
+
+********** GrnHill  2 observations **********
+GrLivArea             3.528206e-01
+LotFrontage           1.734723e-17
+GarageYrBlt_1927.0    0.000000e+00
+GarageYrBlt_1936.0    0.000000e+00
+GarageYrBlt_1935.0    0.000000e+00
+GarageYrBlt_1934.0    0.000000e+00
+GarageYrBlt_1933.0    0.000000e+00
+GarageYrBlt_1932.0    0.000000e+00
+GarageYrBlt_1931.0    0.000000e+00
+GarageYrBlt_1930.0    0.000000e+00
+GarageYrBlt_1929.0    0.000000e+00
+GarageYrBlt_1928.0    0.000000e+00
+GarageYrBlt_1926.0    0.000000e+00
+GarageYrBlt_1938.0    0.000000e+00
+GarageYrBlt_1925.0    0.000000e+00
+
+
+
+********** StoneBr  45 observations **********
+GrLivArea              0.214749
+1stFlrSF               0.183044
+MasVnrArea             0.134127
+KitchenQual_TA        -0.124620
+BldgType_TwnhsE       -0.106672
+ScreenPorch            0.105175
+WoodDeckSF             0.082804
+Exterior1st_MetalSd    0.082410
+BsmtFinType1_GLQ       0.079355
+Exterior1st_HdBoard   -0.075340
+MasVnrType_None       -0.073024
+SaleType_New           0.072814
+BsmtFinSF1             0.068824
+GarageCars             0.066195
+FireplaceQu_Gd         0.064876
+
+
+
+********** Veenker  23 observations **********
+YearRemodAdd           0.246601
+BsmtFullBath           0.166638
+HeatingQC_Gd           0.156561
+GarageCars            -0.116526
+GarageYrBlt_1981.0     0.110159
+1stFlrSF               0.100922
+FireplaceQu_Gd         0.097511
+Exterior1st_Plywood   -0.082676
+HeatingQC_TA          -0.080058
+LotConfig_Inside       0.075212
+KitchenQual_Gd         0.072902
+LotShape_IR2          -0.057590
+FireplaceQu_Fa        -0.049644
+BsmtExposure_No       -0.048528
+BsmtFinType2_Rec      -0.046048
+
+
+
+********** NPkVill  23 observations **********
+FullBath              0.086394
+BsmtFinSF1            0.068761
+MSSubClass            0.056750
+GarageFinish_Unf      0.025498
+HeatingQC_TA         -0.021977
+FireplaceQu_Fa       -0.016487
+YrSold               -0.013995
+BsmtFinType2_LwQ     -0.013009
+GarageType_Attchd    -0.011603
+BsmtQual_Gd          -0.008834
+GarageYrBlt_1976.0    0.008220
+OverallCond           0.007768
+LotConfig_FR2        -0.003776
+BldgType_Twnhs       -0.002951
+GarageYrBlt_1977.0   -0.001978
+
+
+
+********** Blueste  10 observations **********
+MSSubClass           -2.240095e-01
+BsmtFullBath          1.515399e-01
+HeatingQC_Gd          5.350251e-02
+GarageType_Attchd     4.635983e-02
+BsmtFinSF2            2.425944e-02
+KitchenQual_Gd       -2.339915e-02
+OverallCond          -1.854031e-02
+Fireplaces           -8.866733e-03
+BsmtFinType1_Unf     -8.511601e-03
+FireplaceQu_None      6.276520e-03
+SaleType_WD          -5.413619e-03
+FullBath              3.295459e-03
+OverallQual           2.445493e-03
+GarageYrBlt_1988.0    3.648423e-04
+HeatingQC_TA         -2.182860e-16
+
+
+
+********** ALL DATA  2624 observations **********
+GrLivArea                1.006087
+OverallQual              0.635077
+TotalBsmtSF              0.268781
+OverallCond              0.163184
+BsmtFinSF1               0.162296
+GarageArea               0.103051
+CentralAir_Y             0.088915
+GarageCars               0.088460
+YearRemodAdd             0.079792
+YearBuilt                0.056996
+FireplaceQu_None        -0.052691
+GarageCond_TA            0.048977
+Neighborhood_Crawfor     0.048924
+BsmtExposure_Gd          0.044141
+MSZoning_RL              0.042876
+Foundation_PConc         0.039567
+MSZoning_RM             -0.038845
+PavedDrive_Y             0.035347
+Neighborhood_Somerst     0.034491
+BldgType_Twnhs          -0.028581
+KitchenQual_TA          -0.028196
+MSSubClass              -0.026560
+Condition1_Norm          0.025773
+HeatingQC_TA            -0.025256
+GarageType_Attchd        0.023225
+BsmtExposure_No         -0.018774
+LotShape_Reg            -0.018418
+Neighborhood_NridgHt     0.017232
+ExterQual_TA            -0.014832
+BsmtFinType1_GLQ         0.014766
+FireplaceQu_Gd           0.011900
+BsmtFinType1_Unf        -0.011196
+Functional_Typ           0.010652
+RoofStyle_Gable         -0.009964
+Neighborhood_Edwards    -0.009279
+GarageFinish_Unf        -0.007834
+Exterior2nd_VinylSd      0.006111
+BsmtFullBath             0.005982
+SaleCondition_Partial    0.005873
+MasVnrType_None         -0.002031
+BsmtQual_TA             -0.000887
+MSZoning_RH             -0.000000
+GarageYrBlt_1948.0       0.000000
+GarageYrBlt_1947.0       0.000000
+GarageYrBlt_1946.0      -0.000000
+GarageYrBlt_1945.0       0.000000
+GarageYrBlt_1943.0       0.000000
+GarageYrBlt_1942.0       0.000000
+GarageYrBlt_1941.0      -0.000000
+GarageYrBlt_1940.0       0.000000
+
+
+
