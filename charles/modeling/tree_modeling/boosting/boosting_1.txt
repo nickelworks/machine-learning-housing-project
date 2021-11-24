@@ -1,0 +1,25 @@
+ReadMe : 
+First grid Search for boosting
+
+
+
+Model : AdaBoostRegressor(n_estimators=350)
+TRAIN SCORE : 0.894227452589208 
+TEST SCORE : 0.8516863804394996 
+
+
+Train Size : 1962
+Test Size : 654
+
+GRID SEARCH PARAMATER DICTIONARY
+{'cv': None, 'error_score': nan, 'estimator__base_estimator': None, 'estimator__learning_rate': 1.0, 'estimator__loss': 'linear', 'estimator__n_estimators': 50, 'estimator__random_state': None, 'estimator': AdaBoostRegressor(), 'n_jobs': -1, 'param_grid': {'n_estimators': range(50, 400, 50), 'learning_rate': array([0.        , 0.11111111, 0.22222222, 0.33333333, 0.44444444,
+       0.55555556, 0.66666667, 0.77777778, 0.88888889, 1.        ])}, 'pre_dispatch': '2*n_jobs', 'refit': True, 'return_train_score': False, 'scoring': None, 'verbose': 3}
+
+BEST ESTIMATOR PARAMATER DICTIONARY
+                     0
+base_estimator    None
+learning_rate      1.0
+loss            linear
+n_estimators       350
+random_state      None
+
