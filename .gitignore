@@ -6,6 +6,9 @@ __pycache__/
 #tony's token key file
 config.py
 
+#ignore .joblib files
+*.joblib
+
 # C extensions
 *.so
 
