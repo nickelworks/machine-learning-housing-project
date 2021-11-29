@@ -21,4 +21,4 @@ https://docs.google.com/document/d/1q-vgo14iHeCkvv9fbptFmktsuX5_uPRI_EHDgcsDIYI/
 https://docs.google.com/spreadsheets/d/1TOMQq4eu1itYrNtu0Si4aHDYCBbaSk7_zCrNQSi-Kdc/edit?usp=sharing
 
 ### google slides: 
-https://docs.google.com/presentation/d/1DqVoR8brMF1lBP3QEMCXNsEUw2R2LZQwbRK-DkiKasE/edit?usp=sharing
+https://docs.google.com/presentation/d/1ViWTriQaOcDrF3tN8XFX9fzSRGRCHNQ45-n5jXjGE78/edit#slide=id.p
